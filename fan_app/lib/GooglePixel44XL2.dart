@@ -145,9 +145,9 @@ class GooglePixel44XL2 extends StatelessWidget {
             ),
           ),
           Transform.translate(
-            offset: Offset(221.0, 510.0),
+            offset: Offset(140.0, 510.0),
             child: Container(
-              width: 189.0,
+              width: 170.0,
               height: 27.0,
               decoration: BoxDecoration(
                 color: const Color(0xffffffff),
@@ -156,7 +156,7 @@ class GooglePixel44XL2 extends StatelessWidget {
             ),
           ),
           Transform.translate(
-            offset: Offset(250.0, 509.0),
+            offset: Offset(150.0, 509.0),
             child: Text(
               'forgot Password ',
               style: TextStyle(
