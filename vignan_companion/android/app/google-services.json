@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18754895687",
+    "project_id": "vignan-student-companion",
+    "storage_bucket": "vignan-student-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18754895687:android:5253657f2d32e07ae99662",
+        "android_client_info": {
+          "package_name": "com.example.vignan_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18754895687-u1h91mne0955ljoi8a67hd8ps47b0l13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSTYJN45BbwILxjJX7_t5hEo3Kppt9mF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18754895687-u1h91mne0955ljoi8a67hd8ps47b0l13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
