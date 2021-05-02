@@ -8,7 +8,7 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(title: "doesnt really matter", home: MyHomePage());
+    return MaterialApp(home: MyHomePage());
   }
 }
 
@@ -20,6 +20,8 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Loginpage();
+     return Loginpage();//Scaffold(
+      // appBar: AppBar(backgroundColor: Colors.black, title: Text('Google ')),
+    // );
   }
 }
