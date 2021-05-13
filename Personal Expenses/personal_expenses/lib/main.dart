@@ -17,7 +17,7 @@ class MyHomePage extends StatelessWidget {
   final List<Transaction> transactions = [
     Transaction(
       id: 't1',
-      title: ' New Video Game',
+      title: ' New Video Games',
       amount: 69.99,
       date: DateTime.now(),
     ),
